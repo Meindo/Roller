@@ -1,0 +1,11 @@
+name: Roller
+version: '${project.version}'
+main: net.minigameking.roller.Roller
+api-version: 1.18
+authors: [ MeindoMC ]
+description: An recreation of the Wastelands roll command
+website: www.minigameking.net
+commands:
+  roll:
+    description: The famous roll command remade
+    usage: /roll
