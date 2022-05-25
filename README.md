@@ -9,4 +9,4 @@ Then it will drop the item you are holding in your main hand on the ground times
 
 # Using Roller in another plugin?
 All you need to do is add the jar file to your project\
-To run the roll function to API.roll(itemToRoll, Player)
+To run the roll function to API.roll(item To Roll, Player)
