@@ -1,5 +1,5 @@
 # Roller
-Roller, an simple lightweight recreation of the Wastelands server roll command
+Roller, a simple lightweight recreation of the Wastelands server roll command
 
 # How and what does it do?!
 Roller adds the command /roll(Remade from the wastelands.cc server(RIP))\
